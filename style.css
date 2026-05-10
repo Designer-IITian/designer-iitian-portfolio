@@ -154,7 +154,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    min-height: 85vh;
+    min-height: 800px;
     padding: 60px 0;
     position: relative;
 }
@@ -246,7 +246,7 @@ section {
 }
 
 .hero-profile-vid {
-    height: 90vh;
+    height: 800px;
     max-height: 850px;
     object-fit: contain;
     position: absolute;
